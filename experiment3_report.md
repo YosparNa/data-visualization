@@ -1,12 +1,12 @@
 # 实验三 数据可视化
 
-班级： 22物联1
+班级： 22物联2
 
-学号： 202302200000
+学号： B20220305211
 
 姓名： 张三
 
-Github地址：<https://github.com/yourusername/python_course>
+Github地址：<https://github.com/YosparNa/data-visualization.git>
 
 ---
 
